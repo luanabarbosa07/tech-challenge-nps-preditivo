@@ -1,7 +1,7 @@
 # Fase 1 e 2 — Entendimento do Negócio e Definição da Target
 
 **Projeto:** Tech Challenge Fase 1 — Case NPS Preditivo
-**Grupo:** Gustavo Mainchein, Gustavo Lopes, Gustavo Valentim
+**Grupo:** Gustavo Mainchein, Gustavo Lopes, Gustavo Valentim e Luana Barbosa
 **Correspondência no CRISP-DM:** Business Understanding
 
 ---
